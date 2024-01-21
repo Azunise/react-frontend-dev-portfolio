@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 import reactIcon from "@iconify/icons-logos/react";
+import html5Icon from "@iconify/icons-logos/html-5";
+import sassIcon from "@iconify/icons-logos/sass";
 
 class About extends Component {
   render() {
@@ -30,8 +32,16 @@ class About extends Component {
                   />
                   
                   <Icon
+                    icon={html5Icon}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
                     icon={reactIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
+                  icon={sassIcon}
+                  style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   
                 </span>
@@ -69,7 +79,7 @@ class About extends Component {
                     }}
                   >
                     <br />
-                    <span className="wave">{hello} :) </span>
+                    <span className="wave">{hello}</span>
                     <br />
                     <br />
                     {about}
