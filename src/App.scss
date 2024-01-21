@@ -1,6 +1,6 @@
 @import '../src/scss/themes/theme-dark.scss';
 @import '../src/scss/themes/theme-light.scss';
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Garamond:wght@200;300&display=swap');
 
 html {
 	font-size: 62.5%;
@@ -20,7 +20,7 @@ html {
 }
 
 .title-styles {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Garamond', sans-serif;
 	font-size: 250%;
 }
 
@@ -54,7 +54,7 @@ header {
 
 .project-date {
 	font-size: 16px;
-	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-family: 'Garamond', sans-serif;
 	padding: 8px 15px 2px 15px;
 	position: relative;
 	z-index: -500;
@@ -84,7 +84,7 @@ header h1 {
 	text-align: center;
 	font-weight: 600 !important;
 	color: #353239;
-	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-family: 'Garamond', sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
 }
@@ -114,7 +114,7 @@ header h1 {
 
 #about h1 {
 	padding-top: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font: 18px/24px 'Garamond', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: black;
@@ -163,7 +163,7 @@ header h1 {
 
 .project-title-settings {
 	margin-top: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font: 18px/24px 'Garamond', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: black;
@@ -201,7 +201,7 @@ header h1 {
 }
 
 .font-trebuchet {
-	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-family: 'Garamond', sans-serif;
 }
 
 #preview {
@@ -236,7 +236,7 @@ header h1 {
 	background-color: #AE944F !important;
 	color: white;
 	font-weight: lighter !important;
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-family: 'Garamond', serif;
 }
 
 .experience-badge {
@@ -247,7 +247,7 @@ header h1 {
 	background-color: #f9f5e9 !important;
 	color: black;
 	font-weight: lighter !important;
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-family: 'Garamond', serif;
 }
 
 .vertical-timeline-element-date {
@@ -288,7 +288,7 @@ header h1 {
 }
 
 .bars li em {
-	font: 15px 'opensans-bold', sans-serif;
+	font: 15px 'Garamond', sans-serif;
 	color: #313131;
 	text-transform: uppercase;
 	letter-spacing: 2px;
@@ -387,7 +387,7 @@ header h1 {
 .section-title {
 	padding-top: 5%;
 	padding-bottom: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font: 18px/24px 'Garamond', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: #fff;
