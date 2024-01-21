@@ -39,8 +39,8 @@
       "startDate": "2023",
       "description": "This is the first project truly different from a simple html/css site and the possibilities offered by JavaScript are quite thrilling combined with HTTP requests. You can sort a gallery according to criterias, add or remove images, send an email with a simple click... It looks less like an exercise and more like a whole project than all the previous ones",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/projet-6/p1.jpg",
+        "images/portfolio/projet-6/p2.jpg"
       ],
       "url": "https://github.com/Azunise/Openclassrooms_Projet6",
       "technologies": [
@@ -59,8 +59,8 @@
       "startDate": "2023",
       "description": "I really liked this project for the freedom that the animations provide, I find that they contribute a lot to the user experience. The user has access to several restaurants to which he can give a favorite status with a heart, and for each one of the restaurant he can select different dishes to constitute his menu. It's very satisfying to replay an animation multiple times, adjusting parameters to find those that provide the most aesthetic result. In addition, the difference between different screen sizes or between a mouse click and a touch screen has to be taken into account for everyone to get a nice interface.",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/projet-4/p1.jpg",
+        "images/portfolio/projet-4/p2.jpg"
       ],
       "url": "https://github.com/Azunise/OpenClassroomsProject4",
       "technologies": [
