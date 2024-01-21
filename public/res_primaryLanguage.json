@@ -1,48 +1,24 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Bonjour",
+      "description": "Je m'appelle Antonin. Passionné par la création digitale, je mets en œuvre mes compétences pour traduire méticuleusement chaque design en expérience utilisateur fluide",
       "section_name": {
-        "about": "About me",
+        "about": "A propos de moi",
         "projects": "Projects",
-        "skills": "Skills",
+        "skills": "Compétences",
         "experience": "Experience"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Projet 11",
+        "startDate": "2023",
+        "description": "Pour ce projet de site d'une application banquaire, j'ai dû utiliser le store Redux pour conserver des informations de connexions d'une page à une autre. L'utilisateur peut se connecter de manière sécursiée, modifier ses informations personnelles, consulter ses comptes... Je me suis également familiarisé avec l'écriture des fichiers de configuration .yaml pour les requêtes http. ",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/projet-11/p1.jpg",
+          "images/portfolio/projet-11/p2.jpg"
         ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
+        "url": "https://github.com/Azunise/Projet_11_fork",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -51,30 +27,54 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          }, 
+          {
+            "class": "devicon-redux-plain", 
+            "name": "Redux"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Projet 6",
+        "startDate": "2023",
+        "description": "C'est le premier projet à s'affranchir vraiment d'un simple site html/css et les possiblités offerts par JavaScript sont assez jubilatoires combinées aux requêtes HTTP. On peut y trier une galerie en fonction d'un critère, ajouter ou retirer des images, envoyer un mail d'un simple click... Il ressemble moins à un exercice et plus à un projet abouti que tous les précédents",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com/Azunise/Openclassrooms_Projet6",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Projet 4",
+        "startDate": "2023",
+        "description": "J'ai bien aimé ce projet pour la liberté que procure les animations, je trouve qu'elles participent beaucoup à l'expérience utilisateur. L'utilisateur a accès à plusieurs restaurants auxquels il peut accorder un coeur pour le statut de favoris, et pour chacun il peut sélectionner différents plats pour constituer son repas. C'est très satisfaisant de rejouer une animation de multiples fois en ajustant les paramètres pour trouver ceux qui offrent le résultat le plus esthétique. De plus, il faut jouer du responsive et de la différence entre une souris et un écran tactile pour que tout le monde ait le droit à des animations belles et fonctionnelles.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Azunise/OpenClassroomsProject4",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-sass-plain",
+            "name": "Sass"
           }
         ]
       }
